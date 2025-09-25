@@ -28,3 +28,16 @@ Below is an example of the program’s output:
 
 
 ![Chessboard Vision Result](result.png)
+
+
+## Future Main Improvements
+
+1. **Improve Training Models**
+   - Add more training images  
+   - Create better data augmentation  
+
+2. **Integrate with Stockfish**
+   - Connect with the Stockfish engine to predict the best moves
+   - Visualize next move on the board
+
+3. **Optimize to improve performance**
