@@ -1,4 +1,3 @@
-from figures import detect_and_visualize
 from board_segmentation import predict_board_layout, get_grid
 import cv2
 from ultralytics import YOLO
